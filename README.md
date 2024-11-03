@@ -2,7 +2,7 @@
 
 Use [Anyloader](https://anyloader.com/) to download photos and videos from your [OnlyFans](https://onlyfans.com) account. This chrome extension allows bulk downloading of media from OnlyFans posts, profiles, and chats with just one click.
 
-![Onlyfans downloader](https://ik.imagekit.io/webscraper/Onlyfans%20downloader/onlyfans%20downloader%20-%20videos.png?updatedAt=1707917537610)
+![Onlyfans downloader](https://ik.imagekit.io/webscraper/Onlyfans%20downloader/onlyfans%20downloader%20-%20options.png?updatedAt=1707917871186)
 
 ## Features
 ### Save media from OnlyFans Posts
